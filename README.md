@@ -9,7 +9,8 @@
 
 📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes in generating high-impact results through following ethical standards and teamwork.
 
-<div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Kvtf](https://github.com/hilalkrglmz/hilalkrglmz/assets/140657703/72c54015-e667-47c3-8a6d-0042a386ca67)
+
 <!---
 hilalkrglmz/hilalkrglmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
