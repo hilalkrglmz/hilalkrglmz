@@ -1,8 +1,6 @@
 
 👋👩‍💻 Hi there, I’m Hilal.  I'm a dedicated learner in the area of becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
-👀 What matters to me is that the code is clear, implementable, functional, and readable.
-
 🌱 I’m currently focusing on React and Front-end Technologies.
 
 💞️ I am always open to collaboration and capable of working harmoniously with a team.
