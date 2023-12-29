@@ -5,8 +5,8 @@
 🎈 I'm always open to collaboration and capable of working harmoniously with a team.<br><br>
 📧 You can contact with me anytime you want. <br><br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=cc3887&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
-<a href="mailto:hllkrg6@gmail.com"><img src="https://img.icons8.com/material-rounded/48/0000FF/new-post.png"/></a>
-<a href="https://www.linkedin.com/in/hilalkaragulmez/"><img src="https://img.icons8.com/color/48/0000FF/linkedin.png"/></a>
+<a href="mailto:hllkrg6@gmail.com"><img src="https://img.icons8.com/material-rounded/36/0000FF/new-post.png"/></a>
+<a href="https://www.linkedin.com/in/hilalkaragulmez/"><img src="https://img.icons8.com/color/36/0000FF/linkedin.png"/></a>
 
 
 ![Kvtf](https://github.com/hilalkrglmz/hilalkrglmz/assets/140657703/72c54015-e667-47c3-8a6d-0042a386ca67)<br>
