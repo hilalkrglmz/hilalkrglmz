@@ -24,7 +24,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![NEXTJS](https://img.shields.io/badge/nextjs-%23039BE5.svg?style=for-the-badge&logo=react-router&logoColor=white) 
+![NEXTJS](https://img.shields.io/badge/nextjs-%23039BE5.svg?style=for-the-badge&logo=nextjs&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hilalkrglmz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
